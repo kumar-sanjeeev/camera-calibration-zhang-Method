@@ -1,5 +1,5 @@
 # Zhang's Camera Calibration method Implementation
-This project describes the implementation of camera calibration from scratch as described by Zhengyou Zhang in paper ["A Flexible New Technique for Camera Calibration"](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr98-71.pdf) to estimate camera Intrinsics and distortation parameters.
+This project describes the implementation of camera calibration from scratch as described by Zhengyou Zhang in paper ["A Flexible New Technique for Camera Calibration"](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr98-71.pdf) to estimate camera Intrinsics and distortion parameters.
 
 
 - **Camera calibration means estimating any camera's intrinsics, extrinsics and distortion parameters. Intrinsic parameters consists of focal length and principal point position and distortion parameters are coefficients of distortion**
