@@ -49,45 +49,45 @@ Here we minimize the least square distance between actual corner pixel co-ordina
 
 - Intrinsic Parameter Matrix:
 
-    $$
-    A_{init} =
-    \begin{bmatrix}
-    2055.8 & -0.306 & 763.8\\
-    0 & 2038.8 & 1348.3 \\
-    0 & 0 &1
-    \end{bmatrix}
-    $$
+$$
+A_{init} =
+\begin{bmatrix}
+2055.8 & -0.306 & 763.8\\
+0 & 2038.8 & 1348.3 \\
+0 & 0 &1
+\end{bmatrix}
+$$
 
 - Radial Distortion coefficients:
 
-    $$
-    K_{init} =
-    \begin{bmatrix}
-    0 & 0
-    \end{bmatrix}
-    $$
+$$
+K_{init} =
+\begin{bmatrix}
+0 & 0
+\end{bmatrix}
+$$
 
 ### After Optimization
 
 - Intrinsic Parameter Matrix:
 
-    $$
-    A_{init} =
-    \begin{bmatrix}
-    2055.8 & -0.306 & 763.8\\
-    0 & 2038.8 & 1348.3 \\
-    0 & 0 &1
-    \end{bmatrix}
-    $$
+$$
+A_{init} =
+\begin{bmatrix}
+2055.8 & -0.306 & 763.8\\
+0 & 2038.8 & 1348.3 \\
+0 & 0 &1
+\end{bmatrix}
+$$
 
 - Radial Distortion coefficients:
 
-    $$
-    K_{init} =
-    \begin{bmatrix}
-    0.0123 & -0.088
-    \end{bmatrix}
-    $$
+$$
+K_{init} =
+\begin{bmatrix}
+0.0123 & -0.088
+\end{bmatrix}
+$$
 
 
 # How to run the code
